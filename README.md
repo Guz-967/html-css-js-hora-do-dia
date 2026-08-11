@@ -10,8 +10,10 @@ O projeto exibe a hora atual e muda sua interface de acordo para cada período d
 
 - Interface dinâmica;
 - Adequação ao horário atual;
-
+  
+<img width="926" height="462" alt="image" src="https://github.com/user-attachments/assets/6dbec97e-6d48-40e2-86e8-36b4e4682711" />
 <img width="1127" height="538" alt="image" src="https://github.com/user-attachments/assets/18d1990f-d9bd-44d7-9b0e-9e1fe98e7b4f" />
+<img width="960" height="458" alt="image" src="https://github.com/user-attachments/assets/dc0fbecb-0c6b-4ca8-b176-ca9f14cbce82" />
 
 ## Como utilizar: 
 
