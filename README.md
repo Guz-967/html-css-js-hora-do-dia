@@ -13,7 +13,7 @@ O projeto exibe a hora atual e muda sua interface de acordo para cada período d
   
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/6dbec97e-6d48-40e2-86e8-36b4e4682711" />
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/18d1990f-d9bd-44d7-9b0e-9e1fe98e7b4f" />
-<p align: center><img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/dc0fbecb-0c6b-4ca8-b176-ca9f14cbce82" /></p>
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/dc0fbecb-0c6b-4ca8-b176-ca9f14cbce82" />
 
 ## Como utilizar: 
 
